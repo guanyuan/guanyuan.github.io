@@ -5,10 +5,19 @@
         <description>Jekyll Bootstrap - Name Lastname</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2014-11-11T14:40:12+08:00</lastBuildDate>
-        <pubDate>2014-11-11T14:40:12+08:00</pubDate>
+        <lastBuildDate>2014-11-11T16:54:09+08:00</lastBuildDate>
+        <pubDate>2014-11-11T16:54:09+08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>myTest</title>
+                <description>
+</description>
+                <link>http://username.github.io/2014/11/11/mytest</link>
+                <guid>http://username.github.io/2014/11/11/mytest</guid>
+                <pubDate>2014-11-11T00:00:00+08:00</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>
